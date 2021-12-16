@@ -1,0 +1,14 @@
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.exe
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.deps.json
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.runtimeconfig.json
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.runtimeconfig.dev.json
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.dll
+C:\Users\jerem\source\repos\Kalkulatorr\bin\Debug\netcoreapp3.1\Kalkulatorr.pdb
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.csproj.AssemblyReference.cache
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.AssemblyInfoInputs.cache
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.AssemblyInfo.cs
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.csproj.CoreCompileInputs.cache
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.dll
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.pdb
+C:\Users\jerem\source\repos\Kalkulatorr\obj\Debug\netcoreapp3.1\Kalkulatorr.genruntimeconfig.cache
